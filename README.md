@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.lexiconbranding.com/wp-content/uploads/2023/06/Azure-hero.jpg" alt="Traffic Examination"/>
+<img src="https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity-1024x631.jpg"/>
 </p>
 
 <h1>Creating a Security Operations Center in Microsoft Azure</h1>
