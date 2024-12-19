@@ -2,7 +2,7 @@
 <img src="https://www.lexiconbranding.com/wp-content/uploads/2023/06/Azure-hero.jpg" alt="Traffic Examination"/>
 </p>
 
-<h1>Creating Azure Resources and Virtual Machines</h1>
+<h1>Creating a Security Operations Center in Microsoft Azure</h1>
 Creating an Azure resource group and adding virtual machines connected together through a virtual network. <br />
 
 
