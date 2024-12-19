@@ -2,8 +2,8 @@
 <img src="https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity-1024x631.jpg"/>
 </p>
 
-<h1>Creating a Security Operations Center in Microsoft Azure</h1>
-Creating an Azure resource group and adding virtual machines connected together through a virtual network. <br />
+<h1>Creating a Security Operations Center in Microsoft Azure <a href="https://medium.com/@ubuu751/creating-a-security-operations-center-in-microsoft-azure-99eaf414adf0">Link To Article on Medium.com</a></h1>
+
 
 
 <h2>Video Demonstration</h2>
