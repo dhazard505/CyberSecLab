@@ -4,7 +4,7 @@
 
 <h1>Creating a Security Operations Center in Microsoft Azure <a href="https://medium.com/@ubuu751/creating-a-security-operations-center-in-microsoft-azure-99eaf414adf0">Link To Article on Medium.com</a></h1>
 
-# # Lab Setup Diagram
+# Lab Setup Diagram
 <img src="Azure Cloud SOC.png"/>
 
 # Setting Up and Securing a Cloud-Based Security Operations Center with Azure
